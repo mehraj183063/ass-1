@@ -1,0 +1,93 @@
+body {
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner-sections {
+    background-image: url(images/donation10.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    background-size: cover;
+    height: 100vh;
+}
+
+.top-section {
+    padding-top: 80px;
+    text-align: center;
+}
+
+.top-sections {
+    padding-top: 100px;
+    text-align: center;
+    color: white;
+}
+
+.button {
+    padding: 10px;
+    background-color: brown;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+
+
+.flexible-con {
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.margin {
+    margin-left: 50px;
+
+}
+
+#box-white-shad {
+    box-shadow: 10px 10px 40px white;
+    padding-left: 10px;
+    margin-left: 20px;
+}
+
+#box-pink-shed {
+    box-shadow: 10px 10px 40px pink;
+    background-color: pink;
+    padding-left: 10px;
+    margin-left: 20px;
+}
+
+#box-sky-shed {
+
+    background-color: sandybrown;
+    padding-left: 10px;
+    margin-left: 20px;
+}
+
+.footer {
+    margin-top: 20px;
+    padding-top: 10px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+#special-color {
+    color: green;
+
+}
+
+.updates {
+    margin-top: 40px;
+    background-color: blanchedalmond;
+    text-align: center;
+
+    box-shadow: 10px 10px 40px sandybrown;
+    margin-bottom: 25px;
+}
+
+.center {
+    text-align: center;
+}
